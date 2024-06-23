@@ -1,5 +1,5 @@
 const Main = () => {
-	return <main>Hi from Main.js</main>
+	return <main className="main">Hi from Main.js</main>
 }
 
 export default Main
